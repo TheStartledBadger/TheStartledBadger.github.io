@@ -8,7 +8,7 @@ comments: true
 What's the issue?
 =================
 
-I've been struggling with my HomePlug adaptors pretty much ever since I first got some.  They seem like a great solution for getting connectivity in your house but they never seem to deliver.  For me the problem is simply their reliability.  From time to time one of them will simply stop working and needs to be powered off and back on again, after which things are good for a while.
+I've been struggling with my HomePlug adaptors pretty much ever since I first got some.  They seem like a great solution for getting connectivity in your house but they never seem to deliver.  For me the problem is simply their reliability.  From time to time one of them will stop working and needs to be powered off and back on again, after which things are good for a while.
 
 Mostly I can handle this but more recently I've set up a VPN server at home so that I can do sensitive things like internet banking while I'm away from home.  The VPN is running on a raspberry pi and relies on a HomePlug to get connected to the router.  Guess what.  It keeps falling off the network, around once every week or two, and the offending HomePlug requires a restart before I can connect to the VPN again.
 
@@ -41,11 +41,13 @@ sudo make manuals
 ```
 At this point you've got the toolkit installed on your box and available to do things with.  The main program I used has the slightly odd name _int6k_.
 
-First I needed to locate all my HomePlug devices which was easy enough, although it does depend on you knowing which network interface your machine uses.  My Pi is using a wireless network and so I needed wlan0.  If you have a wired network perhaps you want eth0.
+First I needed to locate all my HomePlug devices which was easy enough, although it does depend on you knowing which network interface your machine uses.  My Pi is using a wireless network and so I needed `wlan0`.  If you have a wired network perhaps you want `eth0`.
 
 ```
 int6k -miwlan0
-
+```
+and the result is 
+```
 source address = C0:4A:00:69:AE:DE
   network->NID = E0:E0:AF:62:1F:D6:0F
   network->SNID = 12
@@ -103,7 +105,7 @@ I used the command `crontab -e` to edit my cron table and added the following li
 ```
 
 The script this calls was very simple too, just enough to restart all the devices
-```
+```bash
 #!/bin/sh
 (
 date
