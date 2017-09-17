@@ -1,1 +1,11 @@
+# Site settings
+title: The Startled Badger
+email: 
+description: A blog about stuff this startled badger has found itself doing
+baseurl: ""
+url: "http://thestartledbadger.github.io"
+github_username:  TheStartledBadger
+
+
+#
 theme: jekyll-theme-hacker
