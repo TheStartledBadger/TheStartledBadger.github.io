@@ -1,4 +1,12 @@
 /* honour theme settings */
 @import "{{ site.theme }}";
 
+.highlighter-rouge {
+    background-color: #474747;
+    font-size: 14px;
+}
 
+.highlight {
+    background-color: #474747;
+    font-size: 14px;
+}
