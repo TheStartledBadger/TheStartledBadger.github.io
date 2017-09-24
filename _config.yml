@@ -9,3 +9,10 @@ github_username:  TheStartledBadger
 
 #
 theme: jekyll-theme-hacker
+
+# At some point jekyll will upgrade and
+# gems := plugins
+# but right now if I put in "plugins" I get told to use "plugins_dir"
+# which is an error relating to a completely different setting!
+gems:
+  - jekyll-seo-tag
