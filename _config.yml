@@ -6,9 +6,10 @@ baseurl: ""
 url: "http://thestartledbadger.github.io"
 github_username:  TheStartledBadger
 
-
 #
 theme: jekyll-theme-hacker
+show_downloads: "false"
+google_analytics: "UA-99834175-2"
 
 # At some point jekyll will upgrade and
 # gems := plugins

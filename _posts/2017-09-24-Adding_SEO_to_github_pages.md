@@ -4,6 +4,7 @@ date:   2017-09-24
 layout: post
 comments: true
 ---
+
 After completing my first post on this blog I thought it would be a good idea to get some basic SEO (search engine optimisation) in there.  It turns out this is dead easy, Github and their pages machinery with jekyll have it all set up and there's some very simple instructions you can follow here [Installing Jekyll SEO tag](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md).
 
 There's really just one issue, the instructions are wrong.  My first attempt was met with two separate problems.  When attempting to serve my site (locally) I got these errors
