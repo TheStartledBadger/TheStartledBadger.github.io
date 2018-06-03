@@ -34,7 +34,7 @@ And that is it - now my pages have simple SEO information in the headers.  It sh
 
 Afterword
 =========
-Looking at the docs page for the jekyll-seo-tag gem, it's clear that the change from `gems` to `plugins` was only made a month or so ago but it seems to be ahead of the curve since my local jekyll setup doesn't seem `gems` as being deprecated yet.  Maybe there's another problem where the local setup instructions don't get you the same version of jekyll as the one github pages are using internally.
+Looking at the docs page for the jekyll-seo-tag gem, it's clear that the change from `gems` to `plugins` was only made a month or so ago but it seems to be ahead of the curve since my local jekyll setup doesn't see `gems` as being deprecated yet.  Maybe there's another problem where the local setup instructions don't get you the same version of jekyll as the one github pages are using internally.
 
 The instructions on github tell you to keep up to date with jekyll using
 ```
