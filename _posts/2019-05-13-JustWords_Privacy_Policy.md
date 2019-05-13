@@ -4,7 +4,7 @@ date:   2019-05-13
 layout: post
 ---
 
-`JustWords` is a simple Android game I wrote that is hosted on Google Play.  
+`JustWords` is a simple Android game I wrote that is hosted on Google Play.  You can find it [here](https://play.google.com/store/apps/details?id=com.startledbadger.words) if you're interested.
 
 This post contains the privacy policy for the game, as Google now think that's a critical thing even for hobbyist stuff.  So, here we go.
 
