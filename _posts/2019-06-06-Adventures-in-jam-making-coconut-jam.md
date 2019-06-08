@@ -33,7 +33,7 @@ One coconut produced 225g of grated flesh and at the end I had one jar of jam fr
 
 Two or three times, while boiling it, the mixture got very close to completely dry (evaporation) so I added a splash more water.
 
-![During cooking](/images/2019-06-06-cooking-coconut-jam.jpg "During cooking")
+![During cooking](/assets/images/2019-06-06-cooking-coconut-jam.jpg "During cooking")
 
 After 90 minutes, it appeared almost entirely unchanged from how it was 10 minutes after adding the coconut.  No evidence of the coconut softening more or breaking down in any way.
 
@@ -43,7 +43,7 @@ I did notice after the fact (while searching online for other recipes to compare
 
 I was also a bit unclear on the use of the coconut water.  Given that this is made from a fresh coconut, there's some coconut water in it to start with.  The recipe did not appear to use this, so I didn't.  I wonder why it wouldn't be used instead of (or in addition to) the water added at the start?  Maybe I'll try that next time.
 
-![Final Result](/images/2019-06-06-jar-of-coconut-jam.jpg "The final product")
+![Final Result](/assets/images/2019-06-06-jar-of-coconut-jam.jpg "The final product")
 
 Verdict
 ---

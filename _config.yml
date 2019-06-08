@@ -11,9 +11,5 @@ theme: jekyll-theme-hacker
 #show_downloads: "false"
 google_analytics: "UA-99834175-2"
 
-# At some point jekyll will upgrade and
-# gems := plugins
-# but right now if I put in "plugins" I get told to use "plugins_dir"
-# which is an error relating to a completely different setting!
-gems:
+plugins:
   - jekyll-seo-tag
