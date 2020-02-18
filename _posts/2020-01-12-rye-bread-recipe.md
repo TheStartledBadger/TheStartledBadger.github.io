@@ -22,7 +22,7 @@ Dry Mix
 ---
 * 230g dark rye flour
 * 80 plain white flour
-* 415g cracked rye berris (I use rye flakes - can't find cracked rye anywhere!)
+* 260g cracked rye berris (I use rye flakes - can't find cracked rye anywhere!)
 * 120g rye berries (whole rye grains)
 * 210g flax seeds (brown linseed)
 * 90g sunflower seeds
@@ -32,7 +32,7 @@ Dry Mix
 Liquids
 ---
 * 240ml kefir
-* 235ml dark beer (or just more kefir)
+* 235ml dark beer (or just more kefir - note that kefir is not quite as wet so add a bit more)
 
 Method
 ===
@@ -53,7 +53,7 @@ Prep (30 minutes)
 
 I use two loaf tins (resulting in two loaves with a cross section about 10cm wide by 5cm high).  If you're using metal loaf tins, line them with greaseproof paper (I forgot once and ended up throwing out both tins.  By the time the loaves came out the teflon came off with them!).  I now use silicon loaf tins for a vastly better experience.  No lining required and the loaves come out very easily if I grease with a little butter before cooking.
 
-Put the mixture in your loaf tin (or tins) and put them in a pre-heated oven at 170C.  Cooking time is 100-120 minutes depending on quite how wet the initial mixture is.  The original recipe suggests a target core temperature of 96C but I've had difficulty achieving that (and even when I do, it doesn't seem to mean the bread is cooked).  Instead I go with the old school method - stick in a metal probe and if it comes out clean you're good.
+Put the mixture in your loaf tin (or tins) and put them in a pre-heated oven at 170C [Side Note: I've tried cooking at 160C for longer and like the result better].  Cooking time is 100-120 minutes depending on quite how wet the initial mixture is.  The original recipe suggests a target core temperature of 96C but I've had difficulty achieving that (and even when I do, it doesn't seem to mean the bread is cooked).  Instead I go with the old school method - stick in a metal probe and if it comes out clean you're good.
 
 Usual rules apply.  Allow it to cool for 10-15 minutes then remove from the tins.  Allow to cool completely before slicing.
 
